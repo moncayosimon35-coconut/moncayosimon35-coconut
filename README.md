@@ -3,7 +3,7 @@
 </div>
 
 <details>
-  <summary><b> 🫧 Stats </b></summary>
+  <summary style="font-size: 24px;"><b> 🫧 Stats </b></summary>
   <br />
   
   <div align="center">
@@ -11,10 +11,11 @@
 </div>
 
 </details>
+
 <details>
-  <summary><b> ⚓ I code with </b></summary>
+  <summary style="font-size: 24px;"><b> ⚓ I code with </b></summary>
   <br />
-<p><b>👨🏻‍💻 Data Science & AI</b></p>
+<p>👨🏻‍💻 Data Science & AI</p>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
     <img width="12" />
@@ -25,7 +26,7 @@
 
   <br />
 
-  <p><b>🧊 3D Modeling</b></p>
+  <p>🧊 3D Modeling</p>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya" />
     <img width="12" />
@@ -34,7 +35,7 @@
 
   <br />
 
-  <p><b>📱 Dev / Software Dev</b></p>
+  <p>📱 Dev / Software Dev</p>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin" />
     <img width="12" />
@@ -49,7 +50,7 @@
 
   <br />
 
-  <p><b>🪄 UI / UX & Web</b></p>
+  <p>🪄 UI / UX & Web</p>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
     <img width="12" />
@@ -64,16 +65,16 @@
 </details>
 
 <details>
-  <summary><b> 🏄‍♂️ Projects in Progress </b></summary>
+  <summary style="font-size: 24px;"><b> 🏄‍♂️ Projects in Progress </b></summary>
   <br />
 </details>
 <details>
-  <summary><b> 🐚 Hobbies </b></summary>
+  <summary style="font-size: 24px;"><b> 🐚 Hobbies </b></summary>
   <br />
 </details>
 
 <details>
-  <summary><b>•၊၊||၊|။|||| | Playlist ↻ ◁ || ▷ ↺ </b></summary>
+  <summary style="font-size: 60px;"><b>•၊၊||၊|။|||| | Music Taste ↻ ◁ || ▷ ↺ </b></summary>
   <br />
   <div align="center">
   <a href="https://open.spotify.com/user/31xpvrekbmra6aufojx4mnjetkyi">
@@ -83,11 +84,18 @@
 </details>
 
 <details>
-  <summary><b> 🪼 Fandom </b></summary>
+  <summary><b>🪼 Fandom & Favorites</b></summary>
+ <br />
+
+  🌊 **Percy Jackson** | 🎪 **The Amazing Digital Circus** | 🐱 **The Amazing World of Gumball** |
+  ☀️ **Pokémon Sun & Moon** | 🏹 **The Hunger Games** | 🏍️ **Akira** | 🌸 **Melanie Marinez** | 🌌 **UK Skins**
+
   <br />
+  
 </details>
 
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=4479e1"  />
 </div>
+
