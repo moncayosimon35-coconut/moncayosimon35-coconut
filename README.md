@@ -111,14 +111,14 @@
 
   <br />
 
-  <img src="https://img.shields.io/badge/READ YA BOOK-FFB200?style=for-the-badge&logo=scribd&logoColor=black" />
-  <img src="https://img.shields.io/badge/WATCH--DOCUMENTARIES-FF7043?style=for-the-badge&logo=curiositystream&logoColor=white" />
+  <img src="https://img.shields.io/badge/READ_YA_BOOKS-FFB200?style=for-the-badge&logo=bookstack&logoColor=black" />
+  <img src="https://img.shields.io/badge/WATCH--DOCUMENTARIES-FF7043?style=for-the-badge&logo=netflix&logoColor=white" />
 
   <br />
 
-  <img src="https://img.shields.io/badge/GYM-3DDC84?style=for-the-badge&logo=myfitnesspal&logoColor=black" />
-  <img src="https://img.shields.io/badge/SWIM-00B2FF?style=for-the-badge&logo=swell&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQUASH-013243?style=for-the-badge&logo=sporty&logoColor=white" />
+  <img src="https://img.shields.io/badge/GYM_🏋️-3DDC84?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/SWIM_🏊-00B2FF?style=for-the-badge&logo=swell&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQUASH_🎾-013243?style=for-the-badge&logo=sporty&logoColor=white" />
 
   <br />
 
@@ -126,16 +126,41 @@
 
   <br />
 
-  <img src="https://img.shields.io/badge/PAINT--DRAW-0081CB?style=for-the-badge&logo=clipstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/T--SHIRT--STARTUP-F7931E?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/PAINT_%26_DRAW_🎨-0081CB?style=for-the-badge&logo=clipstudio&logoColor=white" />  
+<img src="https://img.shields.io/badge/T--SHIRT--STARTUP-F7931E?style=for-the-badge&logo=shopify&logoColor=white" />
 
   <br />
 
-  <img src="https://img.shields.io/badge/LANGUAGE--LEARNER-000000?style=for-the-badge&logo=polyglot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FRENCH-E4E4E4?style=for-the-badge&logo=duolingo&logoColor=black" />
-  <img src="https://img.shields.io/badge/GERMAN-BCB8B8?style=for-the-badge&logo=babbel&logoColor=black" />
-  <img src="https://img.shields.io/badge/KOREAN-757575?style=for-the-badge&logo=memrise&logoColor=white" />
+ 
 </details>
+
+<details>
+  <summary><b>🌍 Polyglot Journey</b></summary>
+  <br />
+
+  ### "I actually know what I'm saying" tier
+  * **Spanish** | `Native` 
+    > [ ████████████████████ ] 95% — *I speak Bonita.*
+  * **English** | `Native` 
+    > [ ████████████████████ ] 95% — 
+
+  <br />
+
+  ### "Fighting for my life in Duolingo" tier
+  * **French** | `Level A2`
+    > [ ████░░░░░░░░░░░░░░░░ ] 25% — *Can order a croissant without crying.*
+  * **German** | `Level A2`
+    > [ ████░░░░░░░░░░░░░░░░ ]
+
+  <br />
+
+  ### The "Day 1 / Loading..." tier
+  * **Korean** | `Beginner`
+    > [ █░░░░░░░░░░░░░░░░░░░ ] 
+  * **Portuguese** | `Beginner`
+    > [ █░░░░░░░░░░░░░░░░░░░ ] 2% — *Basically Spanish with a fun accent for now.*
+
+ </details>
 
 <details>
   <summary style="font-size: 60px;"><b>•၊၊||၊|။|||| | Music Taste ↻ ◁ || ▷ ↺ </b></summary>
