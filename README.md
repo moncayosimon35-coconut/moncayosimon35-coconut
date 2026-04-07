@@ -105,6 +105,36 @@
 <details>
   <summary style="font-size: 24px;"><b> 🐚 Hobbies </b></summary>
   <br />
+  <img src="https://img.shields.io/badge/LISTEN--MUSIC-7F52FF?style=for-the-badge&logo=deezer&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRODUCE--MUSIC-4285F4?style=for-the-badge&logo=audacity&logoColor=white" />
+  <img src="https://img.shields.io/badge/WRITE--MUSIC-343434?style=for-the-badge&logo=bandcamp&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/READ YA BOOK-FFB200?style=for-the-badge&logo=scribd&logoColor=black" />
+  <img src="https://img.shields.io/badge/WATCH--DOCUMENTARIES-FF7043?style=for-the-badge&logo=curiositystream&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/GYM-3DDC84?style=for-the-badge&logo=myfitnesspal&logoColor=black" />
+  <img src="https://img.shields.io/badge/SWIM-00B2FF?style=for-the-badge&logo=swell&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQUASH-013243?style=for-the-badge&logo=sporty&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/PLAY--ROBLOX--WITH--LITTLE--BRO-E2001A?style=for-the-badge&logo=roblox&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/PAINT--DRAW-0081CB?style=for-the-badge&logo=clipstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/T--SHIRT--STARTUP-F7931E?style=for-the-badge&logo=shopify&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/LANGUAGE--LEARNER-000000?style=for-the-badge&logo=polyglot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FRENCH-E4E4E4?style=for-the-badge&logo=duolingo&logoColor=black" />
+  <img src="https://img.shields.io/badge/GERMAN-BCB8B8?style=for-the-badge&logo=babbel&logoColor=black" />
+  <img src="https://img.shields.io/badge/KOREAN-757575?style=for-the-badge&logo=memrise&logoColor=white" />
 </details>
 
 <details>
