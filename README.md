@@ -64,10 +64,44 @@
   </div>
 </details>
 
+
 <details>
   <summary style="font-size: 24px;"><b> 🏄‍♂️ Projects in Progress </b></summary>
   <br />
+
+  <table>
+    <tr>
+      <td>
+        <h3>🎹 Digital Audio Workstation (DAW)</h3>
+        <p>A high-performance music production software. Currently in the <b>Architecture Design & Documentation</b> phase, focusing on low-latency audio processing.</p>
+        <img src="https://img.shields.io/badge/Status-Documentation-lightgrey?style=for-the-badge&logo=googledocs" alt="Status">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>🚀 Space Exploration Web</h3>
+        <p>An interactive web platform focused on space data and cosmic exploration. Built with <b>React</b> to provide a seamless user experience.</p>
+        <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge&logo=react" alt="Status">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>♻️ Eco-Recycle App</h3>
+        <p>A mobile application designed to promote recycling habits and optimize waste management logistics in urban areas.</p>
+        <img src="https://img.shields.io/badge/Status-Developing-green?style=for-the-badge" alt="Status">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>🩺 Senior HealthBot</h3>
+        <p>An AI-powered medical chatbot tailored for elderly people, providing preventive health assistance and natural language interaction.</p>
+        <img src="https://img.shields.io/badge/Status-Research%20%26%20Dev-red?style=for-the-badge&logo=openai" alt="Status">
+      </td>
+    </tr>
+  </table>
+
 </details>
+
 <details>
   <summary style="font-size: 24px;"><b> 🐚 Hobbies </b></summary>
   <br />
