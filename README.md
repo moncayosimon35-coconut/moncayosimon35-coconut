@@ -1,190 +1,131 @@
 <div align="center">
   <h1>𓆝𓆟༝˚｡⋆𓆉︎⋆｡˚༝𓆞𓆝 Hey, I'm Simon ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</h1>
+
+  <p><b>Networking & Telecom</b> · <b>Data Science & AI</b> · <b>Infrastructure</b></p>
+  <p><i>Teaching assistant by day, building networks, models and music the rest of the time.</i></p>
 </div>
 
-<details>
-  <summary style="font-size: 24px;"><b> 🫧 Stats </b></summary>
-  <br />
-  
-  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=moncayosimon35-coconut&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
-</div>
+<br />
 
-</details>
+## 🧭 About me
 
-<details>
-  <summary style="font-size: 24px;"><b> ⚓ I code with </b></summary>
-  <br />
-<p>👨🏻‍💻 Data Science & AI</p>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
-  </div>
+I'm a student focused on how data moves and what we can learn from it. I like understanding a system from the cables up: how it's connected, how it's stored, and how to get something useful out of it. Right now I split my time between network infrastructure labs, data work, and 3D modeling, and I'm looking for ways to connect all three.
 
-  <br />
+<br />
 
-  <p>🧊 3D Modeling</p>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender" />
-  </div>
+## 🎯 Where I'm headed
 
-  <br />
+My goal is to specialize in two areas:
 
-  <p>📱 Dev / Software Dev</p>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  </div>
+- **Networks & Telecommunications**: designing, simulating and securing infrastructure.
+- **Data Science & AI**: turning raw data into models and decisions.
 
-  <br />
+I think the interesting work happens where they overlap: data-driven networks, smart infrastructure, and AI that runs on solid foundations.
 
-  <p>🪄 UI / UX & Web</p>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
-  </div>
-</details>
+<br />
 
+## 🛠️ Tech I work with
 
-<details>
-  <summary style="font-size: 24px;"><b> 🏄‍♂️ Projects in Progress </b></summary>
-  <br />
+**Programming & Systems**
 
-  <table>
-    <tr>
-      <td>
-        <h3>🎹 Digital Audio Workstation (DAW)</h3>
-        <p>A high-performance music production software. Currently in the <b>Architecture Design & Documentation</b> phase, focusing on low-latency audio processing.</p>
-        <img src="https://img.shields.io/badge/Status-Documentation-lightgrey?style=for-the-badge&logo=googledocs" alt="Status">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>🚀 Space Exploration Web</h3>
-        <p>An interactive web platform focused on space data and cosmic exploration. Built with <b>React</b> to provide a seamless user experience.</p>
-        <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge&logo=react" alt="Status">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>♻️ Eco-Recycle App</h3>
-        <p>A mobile application designed to promote recycling habits and optimize waste management logistics in urban areas.</p>
-        <img src="https://img.shields.io/badge/Status-Developing-green?style=for-the-badge" alt="Status">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>🩺 Senior HealthBot</h3>
-        <p>An AI-powered medical chatbot tailored for elderly people, providing preventive health assistance and natural language interaction.</p>
-        <img src="https://img.shields.io/badge/Status-Research%20%26%20Dev-red?style=for-the-badge&logo=openai" alt="Status">
-      </td>
-    </tr>
-  </table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</details>
+**Databases**
 
-<details>
-  <summary style="font-size: 24px;"><b> 🐚 Hobbies </b></summary>
-  <br />
-  <img src="https://img.shields.io/badge/LISTEN--MUSIC-7F52FF?style=for-the-badge&logo=deezer&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRODUCE--MUSIC-4285F4?style=for-the-badge&logo=audacity&logoColor=white" />
-  <img src="https://img.shields.io/badge/WRITE--MUSIC-343434?style=for-the-badge&logo=bandcamp&logoColor=white" />
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
-  <br />
+**Networking & Infrastructure**
 
-  <img src="https://img.shields.io/badge/READ_YA_BOOKS-FFB200?style=for-the-badge&logo=bookstack&logoColor=black" />
-  <img src="https://img.shields.io/badge/WATCH--DOCUMENTARIES-FF7043?style=for-the-badge&logo=netflix&logoColor=white" />
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-  <br />
+**Data & AI**
 
-  <img src="https://img.shields.io/badge/GYM_🏋️-3DDC84?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/SWIM_🏊-00B2FF?style=for-the-badge&logo=swell&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQUASH_🎾-013243?style=for-the-badge&logo=sporty&logoColor=white" />
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-  <br />
+**3D & Game Dev**
 
-  <img src="https://img.shields.io/badge/PLAY--ROBLOX--WITH--LITTLE--BRO-E2001A?style=for-the-badge&logo=roblox&logoColor=white" />
+![Maya](https://img.shields.io/badge/Autodesk_Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-  <br />
+**Mobile & Design**
 
-<img src="https://img.shields.io/badge/PAINT_%26_DRAW_🎨-0081CB?style=for-the-badge&logo=clipstudio&logoColor=white" />  
-<img src="https://img.shields.io/badge/T--SHIRT--STARTUP-F7931E?style=for-the-badge&logo=shopify&logoColor=white" />
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-  <br />
+<br />
 
- 
-</details>
+## 🚧 What I'm working on
+
+| Project | What it is | Status |
+|---|---|---|
+| 🌐 **[Cisco Packet Tracer Labs](https://github.com/moncayosimon35-coconut/YOUR-REPO-NAME)** | Every network I simulate lives here: routing, switching, VLANs, subnetting and more. | ![Active](https://img.shields.io/badge/-Active-2ea44a?style=flat-square) |
+| 📂 **End-of-semester projects** | Full-stack and infrastructure projects with proper documentation, architecture diagrams and write-ups. | ![Coming soon](https://img.shields.io/badge/-Coming_soon-lightgrey?style=flat-square) |
+
+> This section grows every semester. Check back, there's more on the way.
+
+<br />
+
+## 📜 Certifications
+
+![Coming soon](https://img.shields.io/badge/Earned-Coming_soon-lightgrey?style=for-the-badge)
+![In progress](https://img.shields.io/badge/In_progress-Coming_soon-blue?style=for-the-badge)
+
+<br />
+
+## 🌍 Languages
+
+| Language | Level |
+|---|---|
+| 🇪🇸 **Spanish** | Native |
+| 🇺🇸 **English** | Fluent |
+| 🇫🇷 **French** | Learning, Duolingo level 18 and counting |
+
+<br />
+
+## 🌱 Beyond the code
+
+- 🎓 **Teaching assistant (TA)**: I explain things to other students, which is the fastest way to find out what I don't know yet.
+- 🤝 **Volunteering**: I like being useful outside of a screen.
+- 🎹 **Music production**: making beats and writing music.
+- 🎬 **Video editing**: cutting stories together.
+- 🏋️ **Gym**: consistency over motivation.
+- 📚 **Reading**: always in the middle of a book.
+- 🇫🇷 **French**: slowly leveling up, one streak at a time.
 
 <details>
-  <summary><b>🌍 Polyglot Journey</b></summary>
-  <br />
-
-  ### "I actually know what I'm saying" tier
-  * **Spanish** | `Native` 
-    > [ ████████████████████ ] 95% — *I speak Bonita.*
-  * **English** | `Native` 
-    > [ ████████████████████ ] 95% — 
-
-  <br />
-
-  ### "Fighting for my life in Duolingo" tier
-  * **French** | `Level A2`
-    > [ ████░░░░░░░░░░░░░░░░ ] 25% — *Can order a croissant without crying.*
-  * **German** | `Level A2`
-    > [ ████░░░░░░░░░░░░░░░░ ]
-
-  <br />
-
-  ### The "Day 1 / Loading..." tier
-  * **Korean** | `Beginner`
-    > [ █░░░░░░░░░░░░░░░░░░░ ] 
-  * **Portuguese** | `Beginner`
-    > [ █░░░░░░░░░░░░░░░░░░░ ] 2% — *Basically Spanish with a fun accent for now.*
-
- </details>
-
-<details>
-  <summary style="font-size: 60px;"><b>•၊၊||၊|။|||| | Music Taste ↻ ◁ || ▷ ↺ </b></summary>
+  <summary><b>🎧 What I've been listening to</b></summary>
   <br />
   <div align="center">
-  <a href="https://open.spotify.com/user/31xpvrekbmra6aufojx4mnjetkyi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xpvrekbmra6aufojx4mnjetkyi&count=5" alt="Spotify recently played"  />
-  </a>
+    <a href="https://open.spotify.com/user/31xpvrekbmra6aufojx4mnjetkyi">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xpvrekbmra6aufojx4mnjetkyi&count=5" alt="Spotify recently played" />
+    </a>
+  </div>
+</details>
+
+<br />
+
+## 📈 Consistency
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=moncayosimon35-coconut&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="300" alt="GitHub streak stats" />
 </div>
-</details>
 
-<details>
-  <summary><b>🪼 Fandom & Favorites</b></summary>
- <br />
-
-  🌊 **Percy Jackson** | 🎪 **The Amazing Digital Circus** | 🐱 **The Amazing World of Gumball** |
-  ☀️ **Pokémon Sun & Moon** | 🏹 **The Hunger Games** | 🏍️ **Akira** | 🌸 **Melanie Marinez** | 🌌 **UK Skins**
-
-  <br />
-  
-</details>
-
+<br />
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=4479e1"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=4479e1" />
 </div>
-
