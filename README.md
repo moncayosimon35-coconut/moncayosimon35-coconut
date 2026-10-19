@@ -1,7 +1,7 @@
 <div align="center">
   <h1>𓆝𓆟༝˚｡⋆𓆉︎⋆｡˚༝𓆞𓆝 Hey, I'm Simon ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</h1>
 
-  <p><b>Networking & Telecom</b> · <b>Data Science & AI</b> · <b>Infrastructure</b></p>
+  <p><b>Networking & Telecom</b> · <b>Data Science & AI</b> · <b>cybersecurity </b> · <b>Ocean Tech</b></p>
   <p><i>Teaching assistant by day, building networks, models and music the rest of the time.</i></p>
 </div>
 
