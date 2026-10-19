@@ -2,7 +2,7 @@
   <h1>𓆝𓆟༝˚｡⋆𓆉︎⋆｡˚༝𓆞𓆝 Hey, I'm Simon ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</h1>
 
   <p><b>Networking & Telecom</b> · <b>Data Science & AI</b> · <b>cybersecurity </b> · <b>Ocean Tech</b></p>
-  <p><i>Teaching assistant by day, building networks, models and music the rest of the time.</i></p>
+  
 </div>
 
 <br />
@@ -72,7 +72,7 @@ I think the interesting work happens where they overlap: data-driven networks, s
 
 | Project | What it is | Status |
 |---|---|---|
-| 🌐 **[Cisco Packet Tracer Labs](https://github.com/moncayosimon35-coconut/YOUR-REPO-NAME)** | Every network I simulate lives here: routing, switching, VLANs, subnetting and more. | ![Active](https://img.shields.io/badge/-Active-2ea44a?style=flat-square) |
+| 🌐 **[Cisco Packet Tracer Labs](https://github.com/moncayosimon35-coconut/cisco-networking-portfolio.git)** | Every network I simulate lives here: routing, switching, VLANs, subnetting and more. | ![Active](https://img.shields.io/badge/-Active-2ea44a?style=flat-square) |
 | 📂 **End-of-semester projects** | Full-stack and infrastructure projects with proper documentation, architecture diagrams and write-ups. | ![Coming soon](https://img.shields.io/badge/-Coming_soon-lightgrey?style=flat-square) |
 
 > This section grows every semester. Check back, there's more on the way.
@@ -91,7 +91,7 @@ I think the interesting work happens where they overlap: data-driven networks, s
 | Language | Level |
 |---|---|
 | 🇪🇸 **Spanish** | Native |
-| 🇺🇸 **English** | Fluent |
+| 🇺🇸 **English** | Native |
 | 🇫🇷 **French** | Learning, Duolingo level 18 and counting |
 
 <br />
